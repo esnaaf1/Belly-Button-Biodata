@@ -191,7 +191,6 @@ function initDashboard() {
         displaySampleData(selectedID);
         drawBargraph(selectedID);
         drawBubblechart(selectedID); 
-        // bonus: draw a gauge chart
         drawGaugeChart(selectedID);
     });
 
