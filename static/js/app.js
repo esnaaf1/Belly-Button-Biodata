@@ -130,7 +130,7 @@ function drawGaugeChart(ID)
           title: { text: "Belly Button Washing Fequency", font: { size: 20 }, color: "darkblue" },
           gauge: {
             axis: { range: [null, 9], tickwidth: 1, tickcolor: "green" },
-            bar: { color: "darkblue" },
+            bar: { color: "blue" },
             bgcolor: "white",
             borderwidth: 2,
             bordercolor: "gray",
