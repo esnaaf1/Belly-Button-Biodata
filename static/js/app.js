@@ -167,7 +167,6 @@ function optionChanged(newID)
     displaySampleData(newID);
     drawBargraph(newID);
     drawBubblechart(newID);
-    // bonus: draw gauge chart
     drawGaugeChart(newID);
 }
 
