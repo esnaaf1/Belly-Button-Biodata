@@ -127,10 +127,10 @@ function drawGaugeChart(ID)
           type: "indicator",
           mode: "gauge+number",
           value: wfreq,
-          title: { text: "Belly Button Washing Fequency", font: { size: 20 }, color: "lightblue" },
+          title: { text: "Belly Button Washing Fequency", font: { size: 20 }, color: "Red" },
           gauge: {
             axis: { range: [null, 9], tickwidth: 1, tickcolor: "green" },
-            bar: { color: "lightblue" },
+            bar: { color: "Red" },
             bgcolor: "white",
             borderwidth: 2,
             bordercolor: "gray",
@@ -156,7 +156,7 @@ function drawGaugeChart(ID)
         height: 300,
         margin: { t: 25, r: 25, l: 25, b: 25 },
         paper_bgcolor: "white",
-        font: { color: "blue", family: "Arial" }
+        font: { color: "red", family: "Arial" }
       };
       Plotly.newPlot('gauge', guageData, gaugeLayout);
   });
