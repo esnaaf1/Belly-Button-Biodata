@@ -1,9 +1,9 @@
 
-// Plotly challenge homework
-// Submitted by Farshad Esnaashari
+// Belly Button bio diversity
+// Farshad Esnaashari
 
 
-// set svg area for the dashboard
+// Create a svg area for the visual dashboard
 var svgWidth = 950;
 var svgHeight = 500;
 
