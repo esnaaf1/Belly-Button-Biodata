@@ -1,6 +1,6 @@
 
 // Belly Button bio diversity
-// Farshad Esnaashari
+// Farshad Esnaashari, DataViz University of Minnesota
 
 
 // Create a svg area for the visual dashboard
