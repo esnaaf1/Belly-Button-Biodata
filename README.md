@@ -12,7 +12,7 @@ It contains the following dashboards for each subject in the dataset:
 2. A gauge-style visual showing the belly button washing frequency per week
 3. A bubble chart showing bacteria culture per sample.  
 
-To see the visualization, please open index.html on the local server, or with Lives Server in visual studio code, for example.
+To see the visualization, please open index.html in your browser on the local server, or with Lives Server in visual studio code, for example.
 
 -----------------
 *About the Data*
